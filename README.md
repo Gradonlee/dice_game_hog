@@ -3,6 +3,8 @@ In this project, I will develop a simulator and multiple strategies for the dice
 
 ##
 Rules
+
+
 In Hog, two players alternate turns trying to be the first to end a turn with at least GOAL total points, where GOAL defaults to 100. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes. However, a player who rolls too many dice risks:
 
 Sow Sad. If any of the dice outcomes is a 1, the current player's score for the turn is 1.
