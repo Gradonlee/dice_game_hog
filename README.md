@@ -1,5 +1,5 @@
 # dice_game_hog
-In this project, I will develop a simulator and multiple strategies for the dice game Hog. I will need to use control statements and higher-order functions together
+In this project, I will develop a simulator and multiple strategies for the dice game Hog. I will need to use control statements and higher-order functions togetherCancel changes
 
 ## Rules
 
@@ -15,7 +15,7 @@ Square Swine. After a player gains points for their turn, if the resulting score
 ## Graphical User Interface
 A graphical user interface (GUI, for short) is provided for you. At the moment, it doesn't work because you haven't implemented the game logic. Once you complete the play function, you will be able to play a fully interactive version of Hog!
 
-Once you've done that, you can run the GUI from your terminal:
+You can run the GUI from your terminal:
 
 ```
 python3 hog_gui.py
